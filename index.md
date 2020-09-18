@@ -1,75 +1,15 @@
----
-layout: default
----
+## Welcome to GitHub Pages
 
-<div id="ace-content" class="ace-container-shift">
-    <div class="ace-container">
-        <div id="ace-nav-wrap" class="hidden-sm hidden-xs">
-            <div class="ace-nav-cont">
-                <div id="ace-nav-scroll">
-                    <nav id="ace-nav" class="ace-nav">
-                        <ul class="clear-list">
-                            <li>
-                              <a href="index.html" data-tooltip="Home"><img class="avatar avatar-42" src="{{ '/styles/img/show-star.png' | prepend: site.baseurl }}" alt=""></a>
-                            </li>
-                            <li>
-                              <a href="#basic_info" data-tooltip="基本信息"><span class="ace-icon ace-icon-home"></span></a>
-                            </li>
-                            <li>
-                              <a href="#profetional" data-tooltip="职业技能"><span class="ace-icon ace-icon-experience"></span></a>
-                            </li>
+You can use the [editor on GitHub](https://github.com/zhanglijie1/zhanglijie1.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-                            <li>
-                              <a href="#education" data-tooltip="教育经历"><span class="ace-icon ace-icon-portfolio"></span></a>
-                            </li>
-                            
-                            <li>
-                              <a href="#experience" data-tooltip="工作经历"><span class="ace-icon ace-icon-references"></span></a>
-                            </li>
-                            <li>
-                              <a href="#certification" data-tooltip="获得证书"><span class="ace-icon ace-icon-blog"></span></a>
-                            </li>
-                            <li>
-                              <a href="#personal_project" data-tooltip="个人作品"><span class="ace-icon ace-icon-snowflake-o"></span></a>
-                            </li>
-                        </ul>
-                    </nav>
-                </div>
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-                <div id="ace-nav-tools" class="hidden">
-                    <span class="ace-icon ace-icon-dots-three-horizontal"></span>
+### 个人信息
+#### 姓名 :张利杰
+#### 性别 ：男
+#### 所在学校及学院 ：石家庄铁道大学 信息科学与技术学院
+#### 邮箱：843767688@qq.com 
+#### 博客园 ：https://www.cnblogs.com/zlj843767688/
+#### CSDN ：https://blog.csdn.net/weixin_43103344
 
-                    <button id="ace-nav-arrow" class="clear-btn">
-                        <span class="ace-icon ace-icon-chevron-thin-down"></span>
-                    </button>
-                </div>
-            </div>
-
-            <!-- <div class="ace-nav-btm"></div> -->
-        </div><!-- .ace-nav-wrap -->
-
-        <div class="ace-paper-stock">
-            <main class="ace-paper clearfix">
-                <div class="ace-paper-cont clear-mrg">
-                    <!-- START: PAGE CONTENT -->
-                    <div class="padd-box clear-mrg">
-
-                    {% include resumer_01-basic.html %}
-
-                    {% include resumer_02-profetional.html %}
-
-                    {% include resumer_03-education.html %}
-
-                    {% include resumer_04-experience.html %}
-
-                    {% include resumer_05-certification.html %}
-
-                    {% include resumer_06-personal_project.html %}
-                        
-                    </div><!-- .padd-box -->
-                <!-- END: PAGE CONTENT -->
-                </div><!-- .ace-paper-cont -->
-            </main><!-- .ace-paper -->
-        </div><!-- .ace-paper-stock -->
-    </div><!-- .ace-container -->
-</div><!-- #ace-content -->
+ 
