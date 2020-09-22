@@ -1,4 +1,4 @@
-<table border="0" width='12500px'>
+<table border="0" align='center>
   <tr>
     <td width="75%">
       <h1>姓名 :张利杰 </h1>
