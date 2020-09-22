@@ -1,4 +1,4 @@
-<table border="0" align='center>
+<table border="0" align='center'>
   <tr>
     <td width="75%">
       <h1>姓名 :张利杰 </h1>
@@ -21,9 +21,7 @@
 2.第十三届中国大学生计算机设计大赛河北省级赛二等奖
 3.软著
 4.学校蓝桥杯前几名
-5.校青协优秀志愿者
-### 参加活动
-#
+
  
 ### 项目经历
 #### 2020.2-2020.6      计算机设计大赛智视通系统          python、tensorlfow、kears、socketio、yolov3算法、deep_sort算法
