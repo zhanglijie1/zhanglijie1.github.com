@@ -1,14 +1,17 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <h1>姓名 :张利杰 </h1>
+      <p><b>本科</b></p>
+      <p><b>所在学校及学院 ：石家庄铁道大学 信息科学与技术学院</b></p>
+      <p><b>QQ:843767688</b></p>
+      <p><b>邮箱：843767688@qq.com </b></p>
+      <p><b> 博客园 ：https://www.cnblogs.com/zlj843767688/</b></p>
+       <p><b>CSDN ：https://blog.csdn.net/weixin_43103344</b></p>
+       <p><b>项目链接：https://github.com/zhanglijie1/Project</b></p>
     </td>
     <td width="25%">
-      <img src="face.jpg" width="100%">      % 插入证件照代码
+      <img src="face.jpg" width="100%">    
     </td>
   </tr>
 </table>
