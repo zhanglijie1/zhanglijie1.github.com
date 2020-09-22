@@ -1,5 +1,5 @@
 ### 个人信息
-#### 姓名 :张利杰  
+#### 姓名 :张利杰  <img src='face.jpg'>
 #### 性别 ：男
 #### 所在学校及学院 ：石家庄铁道大学 信息科学与技术学院
 #### QQ:843767688
@@ -7,7 +7,7 @@
 #### 博客园 ：https://www.cnblogs.com/zlj843767688/
 #### CSDN ：https://blog.csdn.net/weixin_43103344
 #### 项目链接：https://github.com/zhanglijie1/Project
-<img src='face.jpg'>
+
 ### 荣誉奖励
 1.校级网页设计大赛三等奖
 2.第十三届中国大学生计算机设计大赛河北省级赛二等奖
