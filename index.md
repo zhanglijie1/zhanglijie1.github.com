@@ -1,21 +1,29 @@
-### 个人信息
-#### 姓名 :张利杰
-#### 性别 ：男
-#### 所在学校及学院 ：石家庄铁道大学 信息科学与技术学院
-#### QQ:843767688
-#### 邮箱：843767688@qq.com 
-#### 博客园 ：https://www.cnblogs.com/zlj843767688/
-#### CSDN ：https://blog.csdn.net/weixin_43103344
-#### 项目链接：https://github.com/zhanglijie1/Project
+<table border="0" align='center'>
+  <tr>
+    <td width="75%">
+      <h1>姓名 :张利杰 </h1>
+      <p><b>本科</b></p>
+      <p><b>所在学校及学院 ：石家庄铁道大学 信息科学与技术学院</b></p>
+      <p><b>QQ:843767688</b></p>
+      <p><b>邮箱：843767688@qq.com </b></p>
+      <p><b> 博客园 ：https://www.cnblogs.com/zlj843767688/</b></p>
+       <p><b>CSDN ：https://blog.csdn.net/weixin_43103344</b></p>
+       <p><b>项目链接：https://github.com/zhanglijie1/Project</b></p>
+    </td>
+    <td width="25%">
+      <img src="face.jpg" width="100%">    
+    </td>
+  </tr>
+</table>
 
+### 专业技能
+熟悉Java、python、php、c#语言、熟练应用Struts2+Hibernate，Spring框架和MVC三层架构开发模式、熟悉Mysql和SqlServer数据库； 熟练Tomcat服务器的部署及应用； 熟练使用Jsp，HTML，JavaScript，Jquery，Css等WEB客户端技术；了解设计模式，代码重构和项目过程管理，能够编写文档。
 ### 荣誉奖励
 1.校级网页设计大赛三等奖
 2.第十三届中国大学生计算机设计大赛河北省级赛二等奖
 3.软著
 4.学校蓝桥杯前几名
-5.校青协优秀志愿者
-### 参加活动
-#
+
  
 ### 项目经历
 #### 2020.2-2020.6      计算机设计大赛智视通系统          python、tensorlfow、kears、socketio、yolov3算法、deep_sort算法
@@ -29,3 +37,9 @@
 #### 2019.6-2019.10	 科技创新平台年报统计系统	java、mysq、tomcat、ajax、 jquery、layui
 项目介绍:完善创新平台的功能，实现项目信息的统计和以及数据分析，填报系统。
 工作成果：用户首次登陆：用户第一次登录填写报表、用户填报、模拟知网通过树形检索查询功能、通过多种条件查询，可增加查询条件、用户一框式搜索：通过用户关键字，模糊查询功能、可视化展示
+
+### 社会活动情况
+### 2017-2018年	
+校青协新媒体干部，参加了很多志愿者活动，慰问同济养老院，献血等，在校青协晚会上上演手语歌唱节目，取得了不错的成绩，并且每周进行微信公众号的排版，发布报道
+### 2019-2020年	   
+参加学院举行的献书献衣活动
